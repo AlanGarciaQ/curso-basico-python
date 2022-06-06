@@ -3,7 +3,7 @@
 En este curso aprenderas a programar en 
 Phyton 
 
-![Logo de Python](imagenes\Logo-python.png)
+![Logo de Python]([imagenes\Logo-python.png](https://github.com/AlanGarciaQ/curso-basico-python/blob/main/imagenes/Logo-python.png))
 
 **Requisitos**
 - Python 3.6 o superior
